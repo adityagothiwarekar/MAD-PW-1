@@ -2,7 +2,8 @@
 
 Exp1 MAD Lab
 
-![img.png](img.png)
+![img.png](img3.png
+)
 
 ## Getting Started
 
